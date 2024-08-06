@@ -1,1 +1,1 @@
-# BeatPulse
+BeatPulse is a stylish and responsive web-based music player built with HTML, CSS, and JavaScript. It delivers a seamless music experience with a clean, intuitive interface that adapts beautifully across different devices. Effortlessly play, pause, and navigate through your favorite tracks, making BeatPulse an ideal tool for music lovers and web development enthusiasts alike.
